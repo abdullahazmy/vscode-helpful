@@ -1,0 +1,73 @@
+{
+  "editor.fontSize": 25,
+  "terminal.integrated.fontSize": 17,
+  "editor.formatOnSave": true,
+  "editor.mouseWheelZoom": true,
+  "code-runner.clearPreviousOutput": true,
+  "code-runner.showExecutionMessage": false,
+  "debug.terminal.clearBeforeReusing": true,
+  "code-runner.runInTerminal": true,
+  "files.autoSave": "afterDelay",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "clangd.path": "/home/abdullah/.config/Code/User/globalStorage/llvm-vs-code-extensions.vscode-clangd/install/16.0.2/clangd_16.0.2/bin/clangd",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.iconTheme": "material-icon-theme",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "dart.debugExternalPackageLibraries": false,
+  "dart.debugSdkLibraries": false,
+  "dart.cliConsole": "terminal",
+  "cmake.configureOnOpen": true,
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "redhat.telemetry.enabled": true,
+  "[java]": {
+    "editor.defaultFormatter": "redhat.java"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "editor.minimap.enabled": false,
+  "launch": {
+    "configurations": [],
+    "compounds": []
+  },
+  "liveServer.settings.donotShowInfoMsg": true,
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "git-autoconfig.configList": [
+    {
+      "user.email": "abdullahazmy2@gmail.com",
+      "user.name": "Abdullah Azmy"
+    }
+  ],
+  "todohighlight.isEnable": false,
+  "workbench.colorTheme": "Ayu Dark",
+  "[python]": {
+    "diffEditor.ignoreTrimWhitespace": false,
+    "gitlens.codeLens.symbolScopes": ["!Module"],
+    "editor.formatOnType": true,
+    "editor.wordBasedSuggestions": "off"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format"
+  },
+  "github.copilot.advanced": {},
+
+  "github.copilot.enable": {
+    "shellscript": "true",
+    "cpp": "false"
+  },
+  "github.copilot.editor.enableAutoCompletions": false,
+  "explorer.confirmDragAndDrop": false,
+  "muslim-prayer-times.timeFormat": "12-hour",
+  "muslim-prayer-times.location": "30.04418415430949, 31.233573450732756",
+  "azkari.repeatedEveryMinute": 1
+}
